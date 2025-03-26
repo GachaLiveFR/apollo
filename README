@@ -1,0 +1,20 @@
+Thank you for purchasing the Apollo Theme!
+
+
+Before installing the Apollo Theme, please ensure that:
+
+* You do not have any other plugins installed.
+* You are running the latest version of Pterodactyl.
+* You have Node.js v16.x.x (v16.20.2 recommended) and Yarn v1.x.x (v1.22.21 recommended) installed.
+
+
+
+Installation Process:
+
+1. Upload the apolloInstaller[your arch] file to your Pterodactyl panel. (If you're unsure about your architecture, you can run the command `uname -m`. aarch64 corresponds to arm64, and x86_64 corresponds to amd64.)
+2. Grant the installer file execution permissions by running the following command: `sudo chmod +x apolloInstaller[your arch]`.
+3. Run the installer as the root user by executing the following command: `sudo ./apolloInstaller[your arch]`.
+4. Choose the correct option in the installer.
+
+
+If you have any problems, open ticket in our discord: https://discord.gg/SnqAGw3jJb
